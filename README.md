@@ -7,7 +7,7 @@
     <li>🌱 I’m currently learning about web Front-end </li>
     <li>🎯 I'm activing Samsung SW Academy For Youth 9th </li>
     <li>✨ I'm interested in sports, flowers and watching movie in hobby </li>
-    <li>📫 How to reach me: zero9657@gmail.com </li>
+    <li>📫 How to reach me: zero9657@naver.com </li>
   </ul>
 </div>
 
