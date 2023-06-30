@@ -5,12 +5,13 @@
   <h3> About me🎈 </h3>
   <ul>
     <li>🌱 I’m currently learning about web Front-end </li>
-    <li>🎯 I'm activing Samsung SW Academy For Youth 9th </li>
+    <li>🎯 I'm activing Samsung SW Academy For Youth 9th (SSAFY) </li>
+    <li>📌 I'm activing as SSAFYCIAL, an SSAFY press corps  </li>
     <li>✨ I'm interested in sports, flowers and watching movie in hobby </li>
     <li>📫 How to reach me: zero9657@naver.com </li>
+    <li>📫 My Blog : https://sunsunny.tistory.com/ </li>
   </ul>
 </div>
-
 <hr />
 
 <h3>👟I'm continuing to walk towards familiarity👟</h3>
