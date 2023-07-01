@@ -9,7 +9,7 @@
     <li>📌 I'm activing as SSAFYCIAL, an SSAFY press corps  </li>
     <li>✨ I'm interested in sports, flowers and watching movie in hobby </li>
     <li>📫 How to reach me: zero9657@naver.com </li>
-    <li>📫 My Blog : https://sunsunny.tistory.com/ </li>
+    <li>🌻 My Blog : https://sunsunny.tistory.com/ </li>
   </ul>
 </div>
 <hr />
